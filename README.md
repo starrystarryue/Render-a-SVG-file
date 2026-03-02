@@ -1,1 +1,0 @@
-# Render-a-SVG-file
